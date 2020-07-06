@@ -29,7 +29,7 @@ The folder called `frog-story` consist of the Mercer Mayer wordless picture book
 
 ### The Project:
 
-The folder called `project` contains over 2 hours of recorded Nigerian Hausa text recoreded by a native speaker, text data was from [AfriSauti
+The folder called `project` contains over 1 hours of recorded Nigerian Hausa text recoreded by a native speaker, text data was from [AfriSauti
  Hausa Text Corpus](https://github.com/afrisauti/hausa_text_corpus) as discussed in the `The APP and Data Collection for the project` paragraph.
 
 ##### Data Arrangement
@@ -50,7 +50,7 @@ Note that a python installation is required as well as some dependencies;
 ##### Step 3 : Data Spliting
 
 Still in the `Nigerian_Hausa_preprocessing.ipynb`.
-- The period of speech recorded was around `1.7 hours`.
+- The period of speech recorded was around `1.4 hours`.
 - Corrupted files were discarded.
 - Organizing the data by matching the recoding to its corresponding label text file using the linkers in each of the sections, this is found in the `project/data/raw_text_file.txt` file.
 - Then the date was split into train, val and text set, this are found in `project/data/records`folder
