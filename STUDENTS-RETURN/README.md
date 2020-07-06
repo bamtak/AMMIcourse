@@ -6,11 +6,6 @@ I was previlledge to have been taught a course on Speech Recognition at the [Afr
 
 Nigerian Hausa or Hausa (as most people call it) is a language widely spoken in the northern part of Nigeria and also in many africa countries including Ghana. 
 
-To clone this repo, go to your terminal and enter the link below;
-
-```git
-git clone https://github.com/BlessingBassey/Nigerian_Hausa_Speech_project
-```
 ### The APP and Data Collection for the Project:
 
 The speech recording of this project was done using the 
