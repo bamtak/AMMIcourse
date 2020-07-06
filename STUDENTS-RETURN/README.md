@@ -21,7 +21,7 @@ The speech recording of this project was done using the
 - Translating : Translation of a recording (previously recorded or loaded)
 - Elicitation : Elicitation of speech from a text file, an image or a video, by loading it within the app
 
-For the data collection process, the text dataset used was collected from [The Jehovah Witness People](https://www.jw.org/pcm/wetin-we-get/different-different-book/jesus/). The text consist of different Bible stories, for the purpose of this project, I choosed to study the life of Jesus. His birth as well as his mission before he aceended to the father. The motivation behind this text was because the life of Jesus teaches humility, and this is worth emulating by anyone. 
+For the data collection process, the text dataset used was collected from [AfriSauti Hausa Text Corpus](https://github.com/afrisauti/hausa_text_corpus).
 
 ### The Frog Story Tutorial:
 
@@ -29,7 +29,8 @@ The folder called `frog-story` consist of the Mercer Mayer wordless picture book
 
 ### The Project:
 
-The folder called `project` contains over 2 hours of recorded Nigerian Hausa text recoreded by a native speaker, text data was from [The Jehovah Witness People](https://www.jw.org/pcm/wetin-we-get/different-different-book/jesus/) as discussed in the `The APP and Data Collection for the project` paragraph.
+The folder called `project` contains over 2 hours of recorded Nigerian Hausa text recoreded by a native speaker, text data was from [AfriSauti
+ Hausa Text Corpus](https://github.com/afrisauti/hausa_text_corpus) as discussed in the `The APP and Data Collection for the project` paragraph.
 
 ##### Data Arrangement
  
